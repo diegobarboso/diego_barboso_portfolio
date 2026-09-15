@@ -76,7 +76,7 @@ const PROJECTS = [
       ],
       galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION],
       resultados: [
-        { valor: "Top 3", label: "equipos con más menciones" },
+        { valor: "Top 10", label: "POSICIÓN FINAL" },
         { valor: "+38%", label: "interacción vs. media" },
       ],
     },
