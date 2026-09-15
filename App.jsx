@@ -97,9 +97,7 @@ const PROJECTS = [
       concepto:
         "Movimiento real, luz natural y encuadres cortados: el outfit se ve puesto y en contexto, no en un maniquí.",
       deliverables: [
-        "Piezas verticales para reels",
-        "Fotografía de producto en movimiento",
-        "Guion y dirección de talento",
+        "Una foto al mes para el feed de Instagram con un outfit de temporada",
       ],
       galeria: [IMG_PULLBEAR],
       enlaces: [
