@@ -32,18 +32,17 @@ const PROJECTS = [
     caseStudy: {
       etiqueta: "Zalando — Creator Network",
       reto:
-        "Como creador del Zalando Creator Network, mi trabajo es mostrar la ropa de la app de forma real: vídeos y fotos de producto llevados al día a día, no a un catálogo. Que cada pieza se vea creíble puesta por una persona real, en movimiento.",
+        "Como creador del Zalando Creator Network, mi trabajo es mostrar la ropa de deporte de la app de forma real: vídeos y fotos de las prendas usadas en el dia a día. Que cada pieza se vea increíble puesta por una persona real, en movimiento.",
       concepto:
         "Contenido natural y editorial a la vez: mismo cuidado visual que una campaña, pero con la cercanía de un creador hablando a su audiencia. Selección de prendas, dirección de la toma y edición final.",
       deliverables: [
         "Vídeos de producto para la app",
-        "Fotografía editorial de las prendas",
-        "Piezas verticales para reels",
+        "Fotos de outfits",
       ],
       galeria: [IMG_ZALANDO_PREP, IMG_ZALANDO_MOTO],
       enlaces: [
         {
-          label: "Perfil en Zalando",
+          label: "MI PERFIL EN ZALANDO",
           url: "https://www.zalando.es/creator/67f28b16-e16a-4317-861e-9d47645cd51d/",
         },
       ],
