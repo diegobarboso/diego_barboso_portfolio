@@ -184,7 +184,6 @@ const REELS = [
   IMG_REEL_KETTLEBELL,
   IMG_BERLIN_GRUPO,
   IMG_REEL_BEACH,
-  IMG_PULLBEAR,
 ];
 
 const CONTACT_EMAIL = "dbarbosovazquez@gmail.com";
