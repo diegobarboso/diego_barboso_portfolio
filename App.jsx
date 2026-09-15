@@ -23,7 +23,7 @@ const PROJECTS = [
     brand: "Zalando",
     disciplina: "Creator Network",
     rol: "Creador de contenido",
-    metrica: "3,2M",
+    metrica: "15,2M",
     metricaLabel: "alcance de campaña",
     resumen:
       "Creador dentro del Zalando Creator Network: vídeos y fotos con ropa de la app llevados al día a día.",
@@ -47,7 +47,7 @@ const PROJECTS = [
         },
       ],
       resultados: [
-        { valor: "3,2M", label: "alcance combinado" },
+        { valor: "15,2M", label: "alcance combinado" },
         { valor: "+38%", label: "interacción vs. media" },
       ],
     },
@@ -57,8 +57,8 @@ const PROJECTS = [
     brand: "Battle Cancer Berlín",
     disciplina: "Battle Cancer Berlín",
     rol: "Atleta y creador de contenido",
-    metrica: "Top 3",
-    metricaLabel: "equipos con más menciones",
+    metrica: "Top 10",
+    metricaLabel: "POSICIÓN FINAL",
     resumen:
       "Invitado a competir en Berlín con el equipo Zalando x Nike en Battle Cancer, cubriendo el evento como atleta y creador.",
     image: IMG_BERLIN_ACCION,
