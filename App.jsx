@@ -23,8 +23,8 @@ const PROJECTS = [
     brand: "Zalando",
     disciplina: "Creator Network",
     rol: "Creador de contenido",
-    metrica: "3,2M",
-    metricaLabel: "alcance de campaña",
+    metrica: "15,2M",
+    metricaLabel: "Alcance de campaña",
     resumen:
       "Creador dentro del Zalando Creator Network: vídeos y fotos con ropa de la app llevados al día a día.",
     image: IMG_ZALANDO_MOTO,
@@ -48,18 +48,18 @@ const PROJECTS = [
         },
       ],
       resultados: [
-        { valor: "3,2M", label: "alcance combinado" },
-        { valor: "+38%", label: "interacción vs. media" },
+        { valor: "15,2M", label: "Alcance de campaña" },
+        { valor: "+38%", label: "Interacción vs. media" },
       ],
     },
   },
   {
     id: "battlecancer",
     brand: "Battle Cancer Berlín",
-    disciplina: "Evento deportivo solidario",
+    disciplina: "Battle Cancer Berlín",
     rol: "Atleta y creador de contenido",
-    metrica: "Top 3",
-    metricaLabel: "equipos con más menciones",
+    metrica: "Top 10",
+    metricaLabel: "Posición Final",
     resumen:
       "Invitado a competir en Berlín con el equipo Zalando x Nike en Battle Cancer, cubriendo el evento como atleta y creador.",
     image: IMG_BERLIN_ACCION,
@@ -77,8 +77,8 @@ const PROJECTS = [
       ],
       galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION, IMG_ZALANDO_PREP],
       resultados: [
-        { valor: "Top 3", label: "equipos con más menciones" },
-        { valor: "+38%", label: "interacción vs. media" },
+        { valor: "Top 10", label: "Posición Final" },
+        { valor: "+38%", label: "Interacción vs. media" },
       ],
     },
   },
@@ -88,7 +88,7 @@ const PROJECTS = [
     disciplina: "Lifestyle",
     rol: "Producción de contenido",
     metrica: "2M",
-    metricaLabel: "alcance",
+    metricaLabel: "Alcance",
     resumen:
       "Serie de contenido lifestyle para Pull&Bear centrada en presentar outfits del día a día, pensada para feed y reels.",
     image: IMG_PULLBEAR,
@@ -116,7 +116,7 @@ const PROJECTS = [
         },
       ],
       resultados: [
-        { valor: "2M", label: "alcance" },
+        { valor: "2M", label: "Alcance" },
         { valor: "+22%", label: "CTR sobre la media de marca" },
       ],
     },
@@ -127,7 +127,7 @@ const PROJECTS = [
     disciplina: "Contenido personal",
     rol: "Creación y edición",
     metrica: "36K",
-    metricaLabel: "seguidores",
+    metricaLabel: "Seguidores",
     resumen:
       "Cuenta personal centrada en entrenamiento, competición y marca deportiva, base de todo el trabajo de marca.",
     image: IMG_ZALANDO_PREP,
@@ -145,8 +145,8 @@ const PROJECTS = [
       ],
       galeria: [IMG_ZALANDO_MOTO, IMG_ZALANDO_PREP],
       resultados: [
-        { valor: "36K", label: "seguidores" },
-        { valor: "1,1M", label: "reproducciones último trimestre" },
+        { valor: "36K", label: "Seguidores" },
+        { valor: "1,1M", label: "Reproducciones último trimestre" },
       ],
     },
   },
