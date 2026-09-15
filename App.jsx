@@ -20,8 +20,8 @@ const IMG_REEL_BEACH = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDA
 const PROJECTS = [
   {
     id: "zalando",
-    brand: "Zalando",
-    disciplina: "Creator Network",
+    brand: "Creator Network",
+    disciplina: "Zalando",
     rol: "Creador de contenido",
     metrica: "15,2M",
     metricaLabel: "Alcance de campaña",
@@ -55,7 +55,7 @@ const PROJECTS = [
   },
   {
     id: "battlecancer",
-    brand: "Battle Cancer Berlín",
+    brand: "Evento de Deporte",
     disciplina: "Battle Cancer Berlín",
     rol: "Atleta y creador de contenido",
     metrica: "Top 10",
@@ -84,8 +84,8 @@ const PROJECTS = [
   },
   {
     id: "pullbear",
-    brand: "Pull&Bear",
-    disciplina: "Lifestyle",
+    brand: "Lifestyle",
+    disciplina: "Pull&Bear",
     rol: "Producción de contenido",
     metrica: "2M",
     metricaLabel: "Alcance",
