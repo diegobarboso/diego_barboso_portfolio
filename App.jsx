@@ -137,11 +137,6 @@ const PROJECTS = [
         "Construir una identidad reconocible que sirviera de carta de presentación para marcas deportivas.",
       concepto:
         "Un feed que mezcla entrenamiento real, competición y vida diaria, con una estética constante y sin filtros forzados.",
-      deliverables: [
-        "Calendario editorial mensual",
-        "Reels de entrenamiento y competición",
-        "Colaboraciones con marca",
-      ],
       galeria: [IMG_ZALANDO_MOTO, IMG_ZALANDO_PREP],
       resultados: [
         { valor: "36K", label: "seguidores" },
