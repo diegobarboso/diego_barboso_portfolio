@@ -36,9 +36,8 @@ const PROJECTS = [
       concepto:
         "Contenido natural y editorial a la vez: mismo cuidado visual que una campaña, pero con la cercanía de un creador hablando a su audiencia. Selección de prendas, dirección de la toma y edición final.",
       deliverables: [
-        "Vídeos de producto para la app",
-        "Fotografía editorial de las prendas",
-        "Piezas verticales para reels",
+        "Vídeos de deporte para la app",
+        "Outfits",
       ],
       galeria: [IMG_ZALANDO_PREP, IMG_ZALANDO_MOTO],
       enlaces: [
