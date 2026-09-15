@@ -23,7 +23,7 @@ const PROJECTS = [
     brand: "Zalando",
     disciplina: "Creator Network",
     rol: "Creador de contenido",
-    metrica: "15,2M",
+    metrica: "3,2M",
     metricaLabel: "alcance de campaña",
     resumen:
       "Creador dentro del Zalando Creator Network: vídeos y fotos con ropa de la app llevados al día a día.",
@@ -32,22 +32,23 @@ const PROJECTS = [
     caseStudy: {
       etiqueta: "Zalando — Creator Network",
       reto:
-        "Como creador del Zalando Creator Network, mi trabajo es mostrar la ropa de deporte de la app de forma real: vídeos y fotos de las prendas usadas en el dia a día. Que cada pieza se vea increíble puesta por una persona real, en movimiento.",
+        "Como creador del Zalando Creator Network, mi trabajo es mostrar la ropa de la app de forma real: vídeos y fotos de producto llevados al día a día, no a un catálogo. Que cada pieza se vea creíble puesta por una persona real, en movimiento.",
       concepto:
         "Contenido natural y editorial a la vez: mismo cuidado visual que una campaña, pero con la cercanía de un creador hablando a su audiencia. Selección de prendas, dirección de la toma y edición final.",
       deliverables: [
         "Vídeos de producto para la app",
-        "Fotos de outfits",
+        "Fotografía editorial de las prendas",
+        "Piezas verticales para reels",
       ],
       galeria: [IMG_ZALANDO_PREP, IMG_ZALANDO_MOTO],
       enlaces: [
         {
-          label: "MI PERFIL EN ZALANDO",
+          label: "Perfil en Zalando",
           url: "https://www.zalando.es/creator/67f28b16-e16a-4317-861e-9d47645cd51d/",
         },
       ],
       resultados: [
-        { valor: "15,2M", label: "alcance combinado" },
+        { valor: "3,2M", label: "alcance combinado" },
         { valor: "+38%", label: "interacción vs. media" },
       ],
     },
@@ -55,10 +56,10 @@ const PROJECTS = [
   {
     id: "battlecancer",
     brand: "Battle Cancer Berlín",
-    disciplina: "Battle Cancer Berlín",
+    disciplina: "Evento deportivo solidario",
     rol: "Atleta y creador de contenido",
-    metrica: "Top 10",
-    metricaLabel: "POSICIÓN FINAL",
+    metrica: "Top 3",
+    metricaLabel: "equipos con más menciones",
     resumen:
       "Invitado a competir en Berlín con el equipo Zalando x Nike en Battle Cancer, cubriendo el evento como atleta y creador.",
     image: IMG_BERLIN_ACCION,
@@ -74,9 +75,9 @@ const PROJECTS = [
         "Fotografía editorial durante la competición",
         "Cobertura en historias en directo",
       ],
-      galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION],
+      galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION, IMG_ZALANDO_PREP],
       resultados: [
-        { valor: "Top 10", label: "POSICIÓN FINAL" },
+        { valor: "Top 3", label: "equipos con más menciones" },
         { valor: "+38%", label: "interacción vs. media" },
       ],
     },
@@ -103,7 +104,7 @@ const PROJECTS = [
         "Fotografía de producto en movimiento",
         "Guion y dirección de talento",
       ],
-      galeria: IMG_PULLBEAR,
+      galeria: [IMG_PULLBEAR, IMG_REEL_BENCH],
       enlaces: [
         {
           label: "Publicación en Instagram",
@@ -137,6 +138,11 @@ const PROJECTS = [
         "Construir una identidad reconocible que sirviera de carta de presentación para marcas deportivas.",
       concepto:
         "Un feed que mezcla entrenamiento real, competición y vida diaria, con una estética constante y sin filtros forzados.",
+      deliverables: [
+        "Calendario editorial mensual",
+        "Reels de entrenamiento y competición",
+        "Colaboraciones con marca",
+      ],
       galeria: [IMG_ZALANDO_MOTO, IMG_ZALANDO_PREP],
       resultados: [
         { valor: "36K", label: "seguidores" },
@@ -178,6 +184,7 @@ const REELS = [
   IMG_REEL_KETTLEBELL,
   IMG_BERLIN_GRUPO,
   IMG_REEL_BEACH,
+  IMG_PULLBEAR,
 ];
 
 const CONTACT_EMAIL = "dbarbosovazquez@gmail.com";
