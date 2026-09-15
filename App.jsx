@@ -134,9 +134,9 @@ const PROJECTS = [
       concepto:
         "Un feed que mezcla entrenamiento real, competición y vida diaria, con una estética constante y sin filtros forzados.",
       deliverables: [
-        "Calendario editorial mensual",
-        "Reels de entrenamiento y competición",
-        "Colaboraciones con marca",
+        "Stories diarias",
+        "Reels de entrenamiento",
+        "Colaboraciones con marcas",
       ],
       galeria: [IMG_ZALANDO_MOTO, IMG_ZALANDO_PREP],
       resultados: [
