@@ -104,7 +104,7 @@ const PROJECTS = [
         "Fotografía de producto en movimiento",
         "Guion y dirección de talento",
       ],
-      galeria: [IMG_PULLBEAR, IMG_REEL_BENCH],
+      galeria: [IMG_PULLBEAR],
       enlaces: [
         {
           label: "Publicación en Instagram",
