@@ -56,7 +56,7 @@ const PROJECTS = [
   {
     id: "battlecancer",
     brand: "Battle Cancer Berlín",
-    disciplina: "Evento deportivo solidario",
+    disciplina: "Battle Cancer Berlín",
     rol: "Atleta y creador de contenido",
     metrica: "Top 3",
     metricaLabel: "equipos con más menciones",
