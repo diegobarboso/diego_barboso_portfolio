@@ -70,9 +70,7 @@ const PROJECTS = [
       concepto:
         "Narrar la preparación y la competición desde dentro, con una estética cruda y editorial. Nada de puesta en escena: sudor, esfuerzo compartido y la energía de un equipo compitiendo por una causa real.",
       deliverables: [
-        "Reels de preparación y bastidores",
-        "Fotografía editorial durante la competición",
-        "Cobertura en historias en directo",
+        "Vídeo de la competición con énfasis en la indumentaria de Nike",
       ],
       galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION],
       resultados: [
