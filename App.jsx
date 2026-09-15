@@ -74,7 +74,7 @@ const PROJECTS = [
         "Fotografía editorial durante la competición",
         "Cobertura en historias en directo",
       ],
-      galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION, IMG_ZALANDO_PREP],
+      galeria: [IMG_BERLIN_GRUPO, IMG_BERLIN_ACCION],
       resultados: [
         { valor: "Top 3", label: "equipos con más menciones" },
         { valor: "+38%", label: "interacción vs. media" },
